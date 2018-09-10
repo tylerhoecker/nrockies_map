@@ -1,1 +1,1 @@
-This a script to create an animated map (GIF) of fire perimeters in the northern rockies since 1984.
+This a script to create an animated map (GIF) of fire perimeters and a corresponding line plot summarizing area burned in an arbitrary portion of the northern rockies since 1984. 
